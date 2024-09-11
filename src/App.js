@@ -47,7 +47,7 @@ function App() {
       <AppBar position="static">
         <Toolbar>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            Deep Learning Interactive Slides
+            Welcome Guys to this Session !
           </Typography>
           <Button color="inherit" onClick={handleClick}>Select Slide</Button>
           <Menu
